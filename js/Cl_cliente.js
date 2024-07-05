@@ -17,8 +17,8 @@ export default class Cl_cliente{
     get tipoServi(){
         return this._tipoServi;
     }
-    set edad(e){
-        this._edad = e;
+    set edad(ed){
+        this._edad = ed;
     }
     get edad(){
         return this._edad;
