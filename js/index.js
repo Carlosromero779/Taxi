@@ -4,7 +4,8 @@
 *servicio a tomar (1= Largo Urbano, 2= Corto Urbano), edad y sexo(1= Masculino, 2=Femenino). Es 
 *significativo para la empresa, obtener un reporte que contenga: a) Cantidad de clientes femeninas 
 *mayores de edad, b)Cual ha sido la menor edad atendida, c) Promedio de edad de los clientes.
-* Datos de los clientes:
+* Datos de los clientes: la Vida es bella
+
 *(nombre,  tipoServi, edad, sexo)
 *("Juan", 2, 20, "M" )
 *("Ana", 1, 19, "F")
